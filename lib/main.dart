@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Test Flutter',
       theme: ThemeData(
           primaryColor: Colors.black,
-          fontFamily: 'Avant',
+          fontFamily: 'Montserrat',
           textTheme: TextTheme(
               bodyText1: TextStyle(fontSize: 14.0),
               bodyText2: TextStyle(fontSize: 14.0),
